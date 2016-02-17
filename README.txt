@@ -8,4 +8,4 @@ Our implementation of Apriori uses 3 classes:
 
 
 To run the program, first compile the 3 classes, then run Main like so:
-$ java Main [input dataset filename] [min_sup value] [output filename]
+$ java com.company.Main [input dataset filename] [min_sup value] [output filename]
