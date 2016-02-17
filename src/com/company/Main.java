@@ -31,7 +31,7 @@ public class Main
 
 
         /* Print frequentMap's data to output file */
-        File f = new File("output.txt");
+        File f = new File(args[2]);
         try {
             PrintWriter pw = new PrintWriter(f);
 
